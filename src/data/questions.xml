@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<answers>
+    <!-- 
+    <question>
+        <text>"this is an example question"</text>
+        <points>200</points>
+        <answer>"this an example question answer"</answer>
+        <difficulty>1</difficulty>
+        <tags>[ALLORNOTHING]</tags> (this is optional)
+    </question>
+    -->
+    <question>
+        <text>"Whats the capital of France?"</text>
+        <points>7</points>
+        <answer>"paris"</answer>
+        <difficulty>0</difficulty>
+    </question>
+    <question>
+        <text>"Whats the capital of France?"</text>
+        <points>7</points>
+        <answer>"paris"</answer>
+        <difficulty>0</difficulty>
+    </question>
+</answers>d
+</answers>
